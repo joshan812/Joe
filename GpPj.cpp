@@ -820,6 +820,8 @@ void LudoGame::display_credits() {
 	cout << "HO YIU HIM\t\t17056165A\t\t104\t\tB\n";
 	cout << "Luk Ho Fung\t\t17160208A\t\t104\t\tB" << endl;
 	cout << "So Chun Lung\t\t17143918A\t\t104\t\tB\n";
+	cout << "Kwok Chi Hang\t\t17158840A\t\t104\t\tC\n";
+	
 
 
 	cout << endl;
